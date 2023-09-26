@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **.NET, C# , MVC, Entity Framework Core, MsSQL**
+- 💬 Ask me about **.NET, C# , MVC, Entity Framework Core, MsSQL, Restful Api**
 
 - 📫 How to reach me **halilibrahimmrgl@gmail.com**
 
