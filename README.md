@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim Morgil</h1>
 <h3 align="center">Hello, I am currently developing myself on web development. so far I have developed many applications. some of them were desktop applications and some were web applications. for now I continue my education by learning Angular. my goal is to be employed as a fullstack developer. You can contact me about the topics you want me to help you with.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **.NET, C# , MVC, Entity Framework Core, MsSQL, Restful Api**
 
