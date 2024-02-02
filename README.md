@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>I'm a junior developer. I have a medium understanding of Java and C# languages, and I am currently working on learning Spring framework and Angular. I closely follow developments in the tech world, always maintaining an open mindset for learning and growth.<br>I am ready to gain project-based experience and learn new things at any time. If you're interested in developing projects together and learning collaboratively, feel free to reach out to me!
+<br>I'm a junior software developer. I have a medium understanding of Java and C# languages, and I am currently working on learning Spring framework and Angular. I closely follow developments in the tech world, always maintaining an open mindset for learning and growth.<br>I am ready to gain project-based experience and learn new things at any time. If you're interested in developing projects together and learning collaboratively, feel free to reach out to me!
 
 
 ## 🌐 Socials:
